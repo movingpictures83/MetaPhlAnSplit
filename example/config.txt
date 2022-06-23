@@ -1,0 +1,2 @@
+Prefix plugins/MetaPhlAnSplit/example/
+Plugin MetaPhlAnSplit inputfile together.txt outputfile ./

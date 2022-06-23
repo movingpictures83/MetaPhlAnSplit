@@ -1,0 +1,10 @@
+clade_name,NCBI_tax_id,file5_all,file4_all,file3_all,file2_all,file1_all
+k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Eggerthellales,2|201174|84998|1643822,0.07905,0.10177,0.12231,0.0,0.23178
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales,2|976|200643|171549,4.76946,4.05996,7.635839999999999,0.85641,12.31704
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales,2|1239|91061|186826,46.87549,19.34775,31.33695,35.98237,28.54973
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales,2|1239|186801|186802,5.21713,7.04634,13.62341,7.03728,14.87409
+k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales,2|1239|526524|526525,31.35167,58.33002,24.31842,53.18159,0.14795
+k__Bacteria|p__Firmicutes|c__Firmicutes_unclassified|o__Firmicutes_unclassified,2|1239||,0.00692,0.004379999999999999,0.008709999999999999,0.0,0.00247
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales,2|1224|28216|80840,0.14782,0.0,0.01252,0.0,2.35961
+k__Bacteria|p__Proteobacteria|c__Proteobacteria_unclassified|o__Proteobacteria_unclassified,2|1224||,0.0,0.0,0.0,0.0,0.04057
+k__Bacteria|p__Verrucomicrobia|c__Verrucomicrobiae|o__Verrucomicrobiales,2|74201|203494|48461,11.55245,11.10978,22.94184,2.94235,41.47676

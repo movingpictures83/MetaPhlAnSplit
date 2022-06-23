@@ -1,0 +1,6 @@
+clade_name,NCBI_tax_id,file5_all,file4_all,file3_all,file2_all,file1_all
+k__Bacteria|p__Actinobacteria,2|201174,0.07905,0.10177,0.12231,0.0,0.23178
+k__Bacteria|p__Bacteroidetes,2|976,4.76946,4.05996,7.635839999999999,0.85641,12.31704
+k__Bacteria|p__Firmicutes,2|1239,83.45121,84.72849000000002,69.28749,96.20124,43.57424
+k__Bacteria|p__Proteobacteria,2|1224,0.14782,0.0,0.01252,0.0,2.4001900000000003
+k__Bacteria|p__Verrucomicrobia,2|74201,11.55245,11.10978,22.94184,2.94235,41.47676
